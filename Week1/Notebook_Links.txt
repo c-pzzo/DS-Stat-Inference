@@ -1,0 +1,2 @@
+# (NB-1) Lecture 2 part 1.ipynb
+https://colab.research.google.com/drive/1orfIxy15lCEEIPAw-yatVBILJgfcC9Wy
