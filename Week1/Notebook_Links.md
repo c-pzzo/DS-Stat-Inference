@@ -6,3 +6,6 @@ https://colab.research.google.com/drive/1Ojr8NZLedrRwyPYSFmcAr5sXLUaymERw?usp=sh
 
 # (NB-3) Lecture 3
 https://colab.research.google.com/drive/1Cpad_ccs30rLodSyPC0LudpvYDYVdv6w?usp=sharing
+
+# (NB-4) Lecture 4
+https://colab.research.google.com/drive/1vK-rS8feLGgw6jVtekwGgxfNBNDem-uc?usp=sharing
