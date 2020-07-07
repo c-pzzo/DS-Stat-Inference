@@ -24,6 +24,9 @@ https://colab.research.google.com/drive/1vK-rS8feLGgw6jVtekwGgxfNBNDem-uc?usp=sh
 https://drive.google.com/file/d/1oQKRMzdePzkYOmEol_iqVsGmx9f_7X2c/view?usp=sharing
 
 ## Lecture 5
+### (NB-5) Lecture 5
+https://colab.research.google.com/drive/1HJaKLYKZvaekA4HVa1cGiORnaAC2UC2W?usp=sharing
+
 ### Lecture 5 video:
 https://drive.google.com/file/d/1jg9jUyqv7mHWW7xS4saopjj7GXLiN5Hi/view?usp=sharing
 
