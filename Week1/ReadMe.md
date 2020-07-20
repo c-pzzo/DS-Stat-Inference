@@ -65,9 +65,15 @@ https://colab.research.google.com/drive/1Awd7SKU97CES7VB5pnkbUjDkKOOKWXsT?usp=sh
 ### (NB-12,2) Lecture 12, part 2
 https://colab.research.google.com/drive/1qKG2tvl3LWhJ4E65TttD6oY3-xjvnzCV?usp=sharing
 
+### Lecture 12 video:
+https://drive.google.com/file/d/1GY-eMuOk4NWS5oBqmTta_IgzS62kgUyH/view?usp=sharing
+
 ## Lecture 13
 ### (NB-13) Lecture 13
 https://colab.research.google.com/drive/1EKPpI94PvpCiAdoCKMpQxHU6ya9H-16P?usp=sharing
+
+### Lecture 13 video:
+https://drive.google.com/file/d/1OefcczHlZ1P__DhwM5CrZVW9uskTPW9d/view?usp=sharing
 # ------------------------------------------------------------------------------
 # Problem Sessions
 ## Problem Session 1:
@@ -75,3 +81,6 @@ https://drive.google.com/file/d/1SPjcXovNXuz1oLH5UNzfSplnHkpZ-6Sx/view?usp=shari
 
 ## Problem Session 2 (About Chapter 3):
 https://drive.google.com/file/d/1FJgQ8FKEzKd-9w4XZ31bcfeDQA96IGCi/view?usp=sharing
+
+## Problem Session (About Chapter 5):
+https://drive.google.com/file/d/16T3oZFC24wblYczFgW1SlTAAuEp-iJPU/view?usp=sharing
