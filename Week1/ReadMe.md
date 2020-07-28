@@ -103,6 +103,9 @@ https://drive.google.com/file/d/16k_lteXw9r1fSrFdPMMmXlRLKiWVeE5L/view?usp=shari
 ### L-18 Video
 https://drive.google.com/file/d/1jfxm-zEo3xycq3JnNYdZAnaevKbAtxim/view?usp=sharing
 
+## Lecture 19:
+https://drive.google.com/file/d/1AH25gPKk0pW-GUVocirdrnwRtkqQmlKR/view?usp=sharing
+
 # ------------------------------------------------------------------------------
 # Problem Sessions
 ## Problem Session 1:
@@ -117,7 +120,10 @@ https://drive.google.com/file/d/16T3oZFC24wblYczFgW1SlTAAuEp-iJPU/view?usp=shari
 ## Problem Session Chap 7:
 https://drive.google.com/file/d/1TKpsVqu82U3-QKE_9ZePLoy1pp9HvnFN/view?usp=sharing
 
-## 
+## PS Ch-8
+### PS Chap 8:
+https://drive.google.com/file/d/1Pt35CQiyAuY-zOPbgdGiW1WuqOV_U8wQ/view?usp=sharing
+
 ### Chap 8, Exercise 1
 https://colab.research.google.com/drive/1jHr1dBRWgqhXzFI8OudEzhU1Vz08N6Rv?usp=sharing
 
