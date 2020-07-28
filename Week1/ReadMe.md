@@ -89,6 +89,8 @@ https://drive.google.com/file/d/1ovzwL_mAjZYmP1IvpxWopqLl2qf5ssf5/view?usp=shari
 ## Lecture 16 :
 ### NB-16 (pt. 1)
 https://colab.research.google.com/drive/1hFgjeP5EweJlHPGySl1SKnRrQu-j8AhI?usp=sharing
+### NB-16 (pt. 2)
+https://colab.research.google.com/drive/1FxtswHxDZLhaHvjDnAdAUxEf84Zjiwkd?usp=sharing
 
 ### L-16 Video: 
 https://drive.google.com/file/d/1S4Cu84nYYiee0qFOeVRa50SouFTTVyLq/view?usp=sharing
@@ -114,3 +116,10 @@ https://drive.google.com/file/d/16T3oZFC24wblYczFgW1SlTAAuEp-iJPU/view?usp=shari
 
 ## Problem Session Chap 7:
 https://drive.google.com/file/d/1TKpsVqu82U3-QKE_9ZePLoy1pp9HvnFN/view?usp=sharing
+
+## 
+### Chap 8, Exercise 1
+https://colab.research.google.com/drive/1jHr1dBRWgqhXzFI8OudEzhU1Vz08N6Rv?usp=sharing
+
+### Chap 8, Exercise 3
+https://colab.research.google.com/drive/1tBH9HJb-5SvpBTbU0Kr9DBpFv7nCefTU?usp=sharing
